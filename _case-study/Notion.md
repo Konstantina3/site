@@ -11,3 +11,5 @@ tags:
   - Startup 
   - Notion Certified Program
 ---
+
+{% include cs-notion.md %}
